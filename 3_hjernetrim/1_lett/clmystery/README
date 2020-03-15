@@ -1,0 +1,56 @@
+.OOOOOOOOOOOOOOO @@                                   @@ OOOOOOOOOOOOOOOO.
+OOOOOOOOOOOOOOOO @@                                    @@ OOOOOOOOOOOOOOOO
+OOOOOOOOOO'''''' @@                                    @@ ```````OOOOOOOOO
+OOOOO'' aaa@@@@@@@@@@@@@@@@@@@@"""                   """""""""@@aaaa `OOOO
+OOOOO,""""@@@@@@@@@@@@@@""""                                     a@"" OOOA
+OOOOOOOOOoooooo,                                            |OOoooooOOOOOS
+OOOOOOOOOOOOOOOOo,                                          |OOOOOOOOOOOOC
+OOOOOOOOOOOOOOOOOO                                         ,|OOOOOOOOOOOOI
+OOOOOOOOOOOOOOOOOO @          THE                          |OOOOOOOOOOOOOI
+OOOOOOOOOOOOOOOOO'@           COMMAND                      OOOOOOOOOOOOOOb
+OOOOOOOOOOOOOOO'a'            LINE                         |OOOOOOOOOOOOOy
+OOOOOOOOOOOOOO''              MURDERS                      aa`OOOOOOOOOOOP
+OOOOOOOOOOOOOOb,..                                          `@aa``OOOOOOOh
+OOOOOOOOOOOOOOOOOOo                                           `@@@aa OOOOo
+OOOOOOOOOOOOOOOOOOO|                                             @@@ OOOOe
+OOOOOOOOOOOOOOOOOOO@                               aaaaaaa       @@',OOOOn
+OOOOOOOOOOOOOOOOOOO@                        aaa@@@@@@@@""        @@ OOOOOi
+OOOOOOOOOO~~ aaaaaa"a                 aaa@@@@@@@@@@""            @@ OOOOOx
+OOOOOO aaaa@"""""""" ""            @@@@@@@@@@@@""               @@@|`OOOO'
+OOOOOOOo`@@a                  aa@@  @@@@@@@""         a@        @@@@ OOOO9
+OOOOOOO'  `@@a               @@a@@   @@""           a@@   a     |@@@ OOOO3
+`OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
+
+
+There's been a murder in Terminal City, and TCPD needs your help.
+
+To figure out whodunit, go to the 'mystery' subdirectory and start working
+from there.
+
+You'll want to start by collecting all the clues at the crime scene (the
+'crimescene' file).
+
+The officers on the scene are pretty meticulous, so they've written down
+EVERYTHING in their officer reports.
+
+Fortunately the sergeant went through and marked the real clues with the
+word "CLUE" in all caps.
+
+To interview named people you must first find their address, and then check
+the appropriate line in streets/<street-name>
+
+To check your answer, use `scoreboard Jane Doe`.
+
+To get started on how to use the command line, open cheatsheet.md
+(from the command line, you can type 'nano cheatsheet.md').
+
+Don't use a text editor to view any files except these instructions and the
+cheatsheet.
+
+
+Credits:
+By Noah Veltman
+
+Projects: noahveltman.com
+https://github.com/veltman
+https://twitter.com/veltman
